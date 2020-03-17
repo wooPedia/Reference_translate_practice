@@ -1,4 +1,4 @@
-<b>출처: cppreference</b>
+<a href="https://en.cppreference.com/w/cpp/container/map" target = "_blank">출처: cppreference</a>
 
 <b>오역이 있을 수 있으니 잘못된 부분이 있다면 꼭 알려주세요!</b>
 
